@@ -13,7 +13,7 @@ Testing and Predictions: Test image filenames are collected from the test direct
 Accuracy and Loss-
 
 Accuracy = 88%  Loss = 0.36  Epochs = 5
-Accuracy = 91%  Loss = 0.24  Epochs = 20
+Accuracy = 95.21%  Loss = 0.13  Epochs = 80
 
 
 
